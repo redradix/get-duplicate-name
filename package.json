@@ -1,0 +1,16 @@
+{
+  "name": "get-duplicate-name",
+  "version": "1.0.0",
+  "description": "Obtain the corresponding name when duplicating an element of a list",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Redradix <development@redradix.com>",
+  "license": "MIT",
+  "repository": "https://github.com/redradix/get-duplicate-name",
+  "homepage": "https://github.com/redradix/get-duplicate-name#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
