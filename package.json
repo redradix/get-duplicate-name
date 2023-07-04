@@ -1,6 +1,6 @@
 {
   "name": "get-duplicate-name",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Obtain the corresponding name when duplicating an element of a list",
   "main": "src/index.js",
   "scripts": {
