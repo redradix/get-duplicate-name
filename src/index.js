@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2023 Redradix - development@redradix.com
+//
+// SPDX-License-Identifier: MIT
+
 /**
  * Returns the corresponding name when duplicating an element of a list of
  * elements. The result will be a string with the original name, the string

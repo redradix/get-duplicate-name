@@ -1,3 +1,7 @@
+// SPDX-FileCopyrightText: 2023 Redradix - development@redradix.com
+//
+// SPDX-License-Identifier: MIT
+
 const getDuplicateName = require('../src')
 
 it('Build the correct name for a duplicate report when there are no existing reports.', () => {
